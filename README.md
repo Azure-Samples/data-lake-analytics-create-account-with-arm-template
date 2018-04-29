@@ -1,3 +1,9 @@
+---
+services: data-lake-analytics
+platforms: powershell
+author: saveenr-msft
+---
+
 ## Create a Data Lake Analytics account using a template
 
 You can also use an Azure Resource Group template using the following  PowerShell script:
